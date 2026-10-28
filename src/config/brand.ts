@@ -5,8 +5,8 @@ export const BRAND = {
   status: 'COMING SOON',
   instagramUrl: 'https://www.instagram.com/ghar.cares/',
   instagramHandle: '@ghar.cares',
-  contactEmail: 'gharcares2026@gmail.com',
-  gmailComposeUrl: 'https://mail.google.com/mail/?view=cm&fs=1&to=gharcares2026@gmail.com',
+  contactEmail: 'support@gharcares.com',
+  gmailComposeUrl: 'https://mail.google.com/mail/?view=cm&fs=1&to=support@gharcares.com',
   websiteDomain: 'https://gharcares.com/',
   currentYear: 2026,
   

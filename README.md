@@ -24,7 +24,7 @@ A premium, cinematic announcement website for **GharCares**, crafted to evoke cu
   - Solar Amber: `#FFB300`
 - **Typography**: Outfit (Headlines & Display), Plus Jakarta Sans (Body)
 - **Official Instagram**: [@ghar.cares](https://www.instagram.com/ghar.cares/)
-- **Direct Correspondence**: [gharcares2026@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=gharcares2026@gmail.com)
+- **Direct Correspondence**: [support@gharcares.com](https://mail.google.com/mail/?view=cm&fs=1&to=support@gharcares.com)
 - **Official Domain**: [https://gharcares.com/](https://gharcares.com/)
 
 ---
